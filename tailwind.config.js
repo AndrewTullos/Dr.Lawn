@@ -28,7 +28,7 @@ module.exports = {
 					"100%": { opacity: 1, transform: "translate(0);" },
 				},
 				wiggle: {
-					"0%, 20%, 80%, 100%": {
+					"0%, 20%, se, 100%": {
 						transform: "rotate(0deg)",
 					},
 					"30%, 60%": {
@@ -67,7 +67,7 @@ module.exports = {
 					accent: "#7b9a76",
 					neutral: "#091714",
 					base: "#ebf6ee",
-					info: "#d7623f",
+					info: "#0087bc",
 					success: "#d7623f",
 					warning: "#ff9f2f",
 					error: "#de0021",
