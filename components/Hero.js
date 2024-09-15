@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Cactus from "../public/Images/INDIAN-FIG.png";
+import Flower from "../public/Images/Flower-Logo.png";
 import TestimonialsAvatars from "./TestimonialsAvatars";
 import config from "@/config";
 
@@ -37,8 +37,8 @@ const Hero = () => {
 			</div>
 			<div className="lg:w-full">
 				<Image
-					src={Cactus}
-					alt="Cacuts"
+					src={Flower}
+					alt="Flower smiley face logo"
 					className="w-full"
 					priority={true}
 					width={500}
